@@ -1,41 +1,123 @@
-# planet.github.io
+---
+layout: default
+---
 
-<img src="(https://github.com/PlanetaryPinky/planet.github.io.wiki.git)" width="400"></img>
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-## My page
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-## GitHub Pages site
+### Definition lists can be used with HTML syntax.
 
-Dev blog: [https://planet.github.io/dev-blog](https://planet.github.io/dev-blog)
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-Pre-installed GitHub Jekyll Themes: [GitHub Pages Themes](https://pages.github.com/themes/)
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-# My Projects
-Here are a list of projects I'm working on:
-
-- [Dataman](https://github.com/planet/dataman) - A simple dataman projectrrrrrrrrrr
-- [ Sandbox](https://github.com/planet/blog) - Simple blog page
-
-# Useful Links
-- [Markdown Tutorials](https://www.w3schools.com/)
-- [GitHub Pages Quickstart](https://pages.github.com)
-
-# Information for CTI 110
-- Remember, you'll want to build on your skills by taking more programming classes! CSC 134, CSC 121, CSC 151 are good next steps.
-- Al Sweigart's books are free online and a good place to keep working on Python. Check them out [here](https://inventwithpython.com/) and this specifically recommended [book](https://inventwithpython.com/invent4thed/).
-
-# An Example CTS285 Layout
-If your webpage has the information below on it, then you're in good shape.
-
-## Description
-
-
-## User Stories
-- You can either list the stories in a simple list or link to the Project board (Kanban board) where you have the stories listed.
-
-## Diagrams
-For now, just the Context Diagram (Diagram Zero).
-
-### More Information
-
+```
+The final element.
+```
