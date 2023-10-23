@@ -1,6 +1,6 @@
 # planet.github.io
 
-![Project Image](/path_to_your_image) <!-- Update the path to your image -->
+https://github.com/PlanetaryPinky/planet.github.io.wiki.git
 
 ## My page
 
