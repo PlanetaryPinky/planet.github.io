@@ -4,8 +4,7 @@
 
 ## My page
 
-<a href="rat.md">Roberts Page</a>rat.html
-
+<a href="rat.md">Roberts Page</a>
 ## GitHub Pages site
 
 Dev blog: [https://planet.github.io/dev-blog](https://planet.github.io/dev-blog)
