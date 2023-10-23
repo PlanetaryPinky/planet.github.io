@@ -22,20 +22,20 @@ Here are a list of projects I'm working on:
 - [GitHub Pages Quickstart](https://pages.github.com)
 
 # Information for CSC 134
-CSC-134, Course Title: C++ Programming
-Instructor: Andrew Norris
+- CSC-134, Course Title: C++ Programming
+- Instructor: Andrew Norris
 
 # CTS285 Layout
 Work in progress......
 
 ## User Stories
-As a student, I want to perform basic arithmetic calculations to solve math problems more quickly.
+- As a student, I want to perform basic arithmetic calculations to solve math problems more quickly.
 
-As a small business owner, I want to calculate percentages to determine discounts and taxes on my sales.
+- As a small business owner, I want to calculate percentages to determine discounts and taxes on my sales.
 
-As a mobile app user, I want the calculator to have a user-friendly and responsive design so that I can easily use it on my smartphone or tablet.
+- As a mobile app user, I want the calculator to have a user-friendly and responsive design so that I can easily use it on my smartphone or tablet.
 
-As a finance professional, I want a calculator to handle financial calculations to make informed financial decisions.
+- As a finance professional, I want a calculator to handle financial calculations to make informed financial decisions.
 
 ## Diagrams
 For now, just the Context Diagram (Diagram Zero).
