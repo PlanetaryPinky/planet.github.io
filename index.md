@@ -14,7 +14,7 @@ Pre-installed GitHub Jekyll Themes: [GitHub Pages Themes](https://pages.github.c
 # My Projects
 Here are a list of projects I'm working on:
 
-- [Dataman](https://github.com/planet/dataman) - A simple dataman projectrrrrrrrrrr
+- [Dataman](Calculator.py) - A simple dataman projectrrrrrrrrrr
 - [ Sandbox](https://github.com/planet/blog) - Simple blog page
 
 # Useful Links
