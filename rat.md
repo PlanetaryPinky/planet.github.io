@@ -4,7 +4,7 @@ Get ready for a wild ride as Robert takes the stage and brings his love for adve
 
 Watch as he travels into the unknown, laughs with his friends, and shares his passion with the world. With his infectious energy and enthusiasm, Robert will become your favorite rat! 
 
-Don't miss out on the fun - join Robert on his adventure and let her take you on an unforgettable journey!
+Don't miss out on the fun - join Robert on his adventure and let him take you on an unforgettable journey!
 
 ## What does Robert look like?
 
