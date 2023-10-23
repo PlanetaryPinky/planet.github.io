@@ -14,8 +14,8 @@ Pre-installed GitHub Jekyll Themes: [GitHub Pages Themes](https://pages.github.c
 # My Projects
 Here are a list of projects I'm working on:
 
-- [Dataman](Calculator.py) - A simple dataman projectrrrrrrrrrr
-- [ Sandbox](https://github.com/planet/blog) - Simple blog page
+- [Project](https://github.com/PlanetaryPinky/CTS285-Project-1) - A simple project
+- [Blog](https://github.com/planet/blog) - Simple blog page
 
 # Useful Links
 - [Markdown Tutorials](https://www.w3schools.com/)
@@ -26,17 +26,13 @@ Here are a list of projects I'm working on:
 - Al Sweigart's books are free online and a good place to keep working on Python. Check them out [here](https://inventwithpython.com/) and this specifically recommended [book](https://inventwithpython.com/invent4thed/).
 
 # CTS285 Layout
-If your webpage has the information below on it, then you're in good shape.
-
-## Dataman
-
-
+If your webpage has the information below, you're in good shape.
 
 ## User Stories
-- You can either list the stories in a simple list or link to the Project board (Kanban board) where you have the stories listed.
+- You can either list the stories in a simple list or link to the Project Board (Kanban board) where you have the stories listed.
 
 ## Diagrams
 For now, just the Context Diagram (Diagram Zero).
 
 ### More Information
-
+[Dataman](Calculator.py)
