@@ -1,6 +1,6 @@
 # planet.github.io
 
-<img src="[vtuber1.png](https://github.com/PlanetaryPinky/planet.github.io.wiki.git)" width="400"></img>
+<img src="(https://github.com/PlanetaryPinky/planet.github.io.wiki.git)" width="400"></img>
 
 ## My page
 
