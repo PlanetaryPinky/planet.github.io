@@ -43,4 +43,5 @@ For now, just the Context Diagram (Diagram Zero).
 ### More Information
 [Dataman](Calculator.py)
 
+<img src="workinprogress.png" width="400"></img>
 
