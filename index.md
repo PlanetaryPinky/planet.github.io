@@ -1,52 +1,123 @@
-# Planetary's Homepage
-Welcome to my promoting a project! 
+---
+layout: default
+---
 
-[View on GitHub](https://github.com/PlanetaryPinky/planet.github.io/)
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Live Site: [yourusername.github.io](https://yourusername.github.io)
+[Link to another page](./another-page.html).
 
-### My Page
-**My Page** - text-planet-003 and DALL-E 4 debut a new original character 
+There should be whitespace between paragraphs.
 
-- [GitHub Pages Site](https://planet.github.io)
-- [Dev Blog](https://yourusername.github.io/dev-blog)
-  
-### Pre-installed GitHub Jekyll Themes
-- [GitHub Pages Themes](https://pages.github.com/themes/)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## My Projects
-Here are a list of projects I’m working on:
+# Header 1
 
-- **[LinkLoaderVN](link_to_your_project)**: A simple visual novel prototype.
-- **[CTS 285 Sandbox](link_to_your_project)**: Sample libraries with examples.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-### Useful Links
-- [Markdown Tutorials](link_to_tutorial)
-- [GitHub Pages Quickstart](link_to_quickstart)
-- [Information for my projects](link_to_information)
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-[Al Sweigart’s books](https://inventwithpython.com/) are free online and a good place to keep working on Python.
+### Definition lists can be used with HTML syntax.
 
-### An Example CTS285 Layout
-If your webpage has the information below on it, then you’re in good shape.
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-#### Description
-A brief description and summary of the project – what is it supposed to do, what languages did you use, etc.
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-#### User Stories
-You can either:
-- List the stories in a simple list
-- Link to the Project board (Kanban board) where you have the stories listed
-
-#### Working Code & Transcripts
-- Any working code, transcripts of program runs, etc.
-- Any additional information you wish to include.
-
-#### Diagrams
-- For now, just the Context Diagram (Diagram Zero).
-
-#### More Information
-- 
-- List 2
-- List 3
+```
+The final element.
+```
