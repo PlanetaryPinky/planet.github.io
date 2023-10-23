@@ -1,14 +1,14 @@
-# [Your VTuber Name]'s Homepage
-Welcome to the GitHub Pages example for promoting a project! 
+# Planetary's Homepage
+Welcome to my promoting a project! 
 
 [View on GitHub](https://github.com/yourusername/yourrepository)
 
 Live Site: [yourusername.github.io](https://yourusername.github.io)
 
-### The VTuber Page
-**The VTuber Page** - text-davinci-003 and DALL-E 2 debut a new original character (do not steal)
+### My Page
+**My Page** - text-planet-003 and DALL-E 4 debut a new original character 
 
-- [GitHub Pages Site](https://yourusername.github.io)
+- [GitHub Pages Site](https://planet.github.io)
 - [Dev Blog](https://yourusername.github.io/dev-blog)
   
 ### Pre-installed GitHub Jekyll Themes
@@ -23,9 +23,8 @@ Here are a list of projects I’m working on:
 ### Useful Links
 - [Markdown Tutorials](link_to_tutorial)
 - [GitHub Pages Quickstart](link_to_quickstart)
-- [Information for CTI 110](link_to_information)
+- [Information for my projects](link_to_information)
 
-_Remember, you’ll want to build on your skills by taking more programming classes! CSC 134, CSC 121, CSC 151 are good next steps._
 
 [Al Sweigart’s books](https://inventwithpython.com/) are free online and a good place to keep working on Python.
 
@@ -48,6 +47,6 @@ You can either:
 - For now, just the Context Diagram (Diagram Zero).
 
 #### More Information
-- List 1
+- 
 - List 2
 - List 3
