@@ -7,7 +7,7 @@
 <a href="rat.md">Roberts Page</a>
 ## GitHub Pages site
 
-Dev blog: [https://planet.github.io/dev-blog](https://planet.github.io/dev-blog)
+Dev blog: [https://planet.github.io/dev-blog](https://planet.github.io/blog)
 
 Pre-installed GitHub Jekyll Themes: [GitHub Pages Themes](https://pages.github.com/themes/)
 
