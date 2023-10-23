@@ -18,21 +18,29 @@ Here are a list of projects I'm working on:
 - [Blog](https://github.com/planet/blog) - Simple blog page
 
 # Useful Links
-- [Markdown Tutorials](https://www.w3schools.com/)
+- [W3Schools Tutorials](https://www.w3schools.com/)
 - [GitHub Pages Quickstart](https://pages.github.com)
 
-# Information for CTI 110
-- Remember, you'll want to build on your skills by taking more programming classes! CSC 134, CSC 121, CSC 151 are good next steps.
-- Al Sweigart's books are free online and a good place to keep working on Python. Check them out [here](https://inventwithpython.com/) and this specifically recommended [book](https://inventwithpython.com/invent4thed/).
+# Information for CSC 134
+CSC-134, Course Title: C++ Programming
+Instructor: Andrew Norris
 
 # CTS285 Layout
-If your webpage has the information below, you're in good shape.
+Work in progress......
 
 ## User Stories
-- You can either list the stories in a simple list or link to the Project Board (Kanban board) where you have the stories listed.
+As a student, I want to perform basic arithmetic calculations to solve math problems more quickly.
+
+As a small business owner, I want to calculate percentages to determine discounts and taxes on my sales.
+
+As a mobile app user, I want the calculator to have a user-friendly and responsive design so that I can easily use it on my smartphone or tablet.
+
+As a finance professional, I want a calculator to handle financial calculations to make informed financial decisions.
 
 ## Diagrams
 For now, just the Context Diagram (Diagram Zero).
 
 ### More Information
 [Dataman](Calculator.py)
+
+
