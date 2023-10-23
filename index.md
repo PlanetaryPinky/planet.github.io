@@ -1,7 +1,7 @@
 # Planetary's Homepage
 Welcome to my promoting a project! 
 
-[View on GitHub](https://github.com/yourusername/yourrepository)
+[View on GitHub](https://github.com/PlanetaryPinky/planet.github.io/)
 
 Live Site: [yourusername.github.io](https://yourusername.github.io)
 
