@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
+import tkinter.font as tkFont
 
 class Calculator(tk.Tk):
       def __init__(self):
@@ -7,19 +8,20 @@ class Calculator(tk.Tk):
           self.title("Calculator")
           self.geometry("300x400")
 
+          # Styling
+          self.style = ttk.Style()
+          self.style.theme_use("clam")  # Using a theme for better button styling
+          self.style.configure("TButton", font=('Arial', 12), borderwidth='4')
+          self.style.map("TButton", foreground=[('pressed', 'white'), ('active', 'blue')], background=[('pressed', '!disabled', 'black'), ('active', 'white')])
+
           # Entry to display current operation
           self.current_operation = tk.StringVar()
-          self.entry = ttk.Entry(self, textvariable=self.current_operation, font=('Arial', 18), justify='right')
+          self.display_font = tkFont.Font(family='Arial', size=18)
+          self.entry = ttk.Entry(self, textvariable=self.current_operation, font=self.display_font, justify='right')
           self.entry.grid(row=0, column=0, columnspan=4, sticky='nsew', padx=5, pady=5)
 
           # Buttons
-          buttons = [
-              '7', '8', '9', '/',
-              '4', '5', '6', '*',
-              '1', '2', '3', '-',
-              'C', '0', '=', '+'
-          ]
-
+          buttons = ['7', '8', '9', '/', '4', '5', '6', '*', '1', '2', '3', '-', 'C', '0', '=', '+']
           row = 1
           col = 0
           for button in buttons:
