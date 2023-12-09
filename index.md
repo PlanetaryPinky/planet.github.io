@@ -16,6 +16,7 @@ Here are a list of projects I'm working on:
 
 - [Project](https://github.com/PlanetaryPinky/CTS285-Project-1) - A simple project
 - [Blog](https://github.com/planet/blog) - Simple blog page
+- [POS](https://github.com/PlanetaryPinky/planet.github.io/commit/66ea3864e3f365502394f179045de8ccc9181f3b)
 
 # Useful Links
 - [W3Schools Tutorials](https://www.w3schools.com/)
@@ -26,7 +27,7 @@ Here are a list of projects I'm working on:
 - Instructor: Andrew Norris
 
 # CTS285 Layout
-Work in progress......
+
 
 ## User Stories
 - As a student, I want to perform basic arithmetic calculations to solve math problems more quickly.
